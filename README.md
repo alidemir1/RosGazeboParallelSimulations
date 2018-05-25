@@ -2,9 +2,9 @@
 Parallel Gazebo Simulations with ROS
 
 ## How to Run
-First run shell files (gazeboSimulation0.sh and gazeboSimulation1.sh) under startSimulations folder on different Terminals
+* First run shell files (gazeboSimulation0.sh and gazeboSimulation1.sh) under startSimulations folder on different Terminals
 
-Then run parallelSimulationNode.py on another terminal. So you should have 3 different terminal running scripts at the same
+* Then run parallelSimulationNode.py on another terminal. So you should have 3 different terminal running scripts at the same
 time.
 
 ## Requirements
