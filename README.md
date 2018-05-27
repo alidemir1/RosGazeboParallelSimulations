@@ -1,6 +1,8 @@
 # RosGazeboParallelSimulations
 Parallel Gazebo Simulations with ROS
 
+![Parallel_Simulations](https://github.com/alidemir1/RosGazeboParallelSimulations/master/parallelsim.gif)
+
 ## How to Run
 * First run shell files (gazeboSimulation0.sh and gazeboSimulation1.sh) under startSimulations folder on different Terminals
 

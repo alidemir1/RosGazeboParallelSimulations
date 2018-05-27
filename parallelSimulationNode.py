@@ -72,7 +72,7 @@ class Worker(mp.Process):
             speed.linear.x = 0.4
             speed.angular.z = 0.5
             if self.port % 2 == 0:
-                speed.angular.z = -0.5
+                speed.angular.z = -1.5
 
             #Publishing speed Values to generate new states#######################################
             pub.publish(speed)
