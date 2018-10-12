@@ -1,7 +1,7 @@
 # RosGazeboParallelSimulations
 Parallel Gazebo Simulations with ROS
 
-##Example
+## Example
 
 This is what you are going to see when you run the code, two kobuki bot making circle in opposite ways and one's angular speed is faster than other. I also define one shared variable between processes as example and print it on terminal.
 
